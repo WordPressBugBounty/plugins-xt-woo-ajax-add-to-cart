@@ -7,7 +7,7 @@ Author URI: https://www.xplodedthemes.com
 Tags: add to cart, ajax add to cart, woocommerce, woocommerce add to cart, add to cart redirect
 Requires at least: 4.8
 Tested up to: 6.6
-Stable tag: 1.1.4
+Stable tag: 1.1.5
 Requires PHP: 5.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -47,6 +47,10 @@ The plugin is totally free! It is also included and loaded by our other plugins:
 *Note:* All our plugins are localized / translatable by default. This is very important for all users worldwide. So please contribute your language to the plugin to make it even more useful.
 
 == Changelog ==
+
+#### V.1.1.5 - 04.11.2024
+- **security**: Removed SVG upload support for security reasons. To enable SVG uploads, please use a plugin like "Safe SVG" https://wordpress.org/plugins/safe-svg/
+- **update**: XT Framework update
 
 #### V.1.1.4 - 04.11.2024
 - **update**: Freemius SDK update v2.9.0
