@@ -6,8 +6,8 @@ Author: XplodedThemes
 Author URI: https://www.xplodedthemes.com
 Tags: add to cart, ajax add to cart, woocommerce, woocommerce add to cart, add to cart redirect
 Requires at least: 4.8
-Tested up to: 7.0.1
-Stable tag: 1.1.10
+Tested up to: 7.1
+Stable tag: 1.1.11
 Requires PHP: 5.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -47,6 +47,10 @@ The plugin is totally free! It is also included and loaded by our other plugins:
 *Note:* All our plugins are localized / translatable by default. This is very important for all users worldwide. So please contribute your language to the plugin to make it even more useful.
 
 == Changelog ==
+
+#### V.1.1.11 - 2026-10-21
+- **update**: XT Framework 2.5.17 (includes 2.5.16), fixing the pricing page showing "/ year" for monthly plans, adding annual and lifetime savings badges inside the billing cycle switcher, making the System Status IP and TLS lookups opt-in, updating Select2 to 4.1.0, SelectWoo to 1.0.10 and the alpha color picker to 3.0.4, removing the unused Xirki telemetry module, and hardening settings preview requests and saved settings values
+- **update**: Tested with WordPress 7.1 and WooCommerce 11.2
 
 #### V.1.1.10 - 2026-09-16
 - **update**: XT Framework 2.5.15, preventing the "Follow Us" widget from being injected twice in XT admin pages, restoring the Browse Plugins grid layout on modern WordPress, keeping the grid at three columns on very large screens, and updating the bundled Freemius SDK to v2.13.4
